@@ -12,6 +12,10 @@ This stack provisions three projects
 
 #### Usage
 
+1) Clone this respository
+2) Rename terraform.tfvars.example to terraform.tfvars
+3) Update terraform.tfvars as per requirements
+
 ----------
 
 ##### Initialize 
